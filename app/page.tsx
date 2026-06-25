@@ -244,7 +244,10 @@ export default function HomePage() {
                   <Clock className="h-5 w-5 text-brand-400 flex-shrink-0" />
                   <div>
                     <p>Monday – Saturday</p>
-                    <p className="text-gray-400">9:00 AM – 7:00 PM</p>
+                    <p className="text-gray-400">8:00 AM – 8:00 PM</p>
+                    <p>Sunday</p>
+                    <p className="text-gray-400">8:00 AM – 1:00 PM</p>
+                
                   </div>
                 </li>
               </ul>
