@@ -13,7 +13,7 @@ const slides = [
     title: 'Berger Paints',
     subtitle: 'Transform your home with India\'s premium paint brand. Trusted by homeowners and contractors alike.',
     cta: { label: 'Shop Paints', href: '/catalog?category=Paints' },
-    bg: 'from-orange-700 via-orange-600 to-yellow-500',
+    image:'\images\ads\EternoAds.jpg',
     emoji: '🎨',
   },
   {
@@ -27,9 +27,9 @@ const slides = [
   },
   {
     id: 3,
-    tag: 'Complete Solutions',
+    tag: 'Sintex Water Tanks',
     title: 'Plumbing Supplies',
-    subtitle: 'CPVC/PVC pipes, fittings, taps and water-management products from trusted manufacturers.',
+    subtitle: 'Complete Range Of Sintex Water Storage Tanks.',
     cta: { label: 'Explore Plumbing', href: '/catalog?category=Plumbing' },
     bg: 'from-teal-800 via-teal-700 to-cyan-500',
     emoji: '🔧',
