@@ -8,7 +8,17 @@ import { ChevronLeft, ChevronRight, FileText } from 'lucide-react';
 
 const slides = [
   {
-    id: 1,
+  id: 1,
+  tag: 'Authorized Dealer-Sintex Water Tanks & Plumbing Supplies',
+  image: '\images\ads\EternoAds.jpg', // <--- I added this for you
+  title: 'Sintex Water Tank',
+  subtitle: 'A Premium Storage Solution for Your Home. Durable, Reliable, and Trusted by Indians.',
+  cta: { label: 'Shop Plumbing', href: '/catalog?category=Plumbing' },
+  bg: 'from-orange-700 via-orange-600 to-yellow-500',
+  emoji: '🎨',
+},
+  {
+    id: 6,
     tag: 'Authorized Dealer',
     title: 'Berger Paints',
     subtitle: 'Transform your home with India\'s premium paint brand. Trusted by homeowners and contractors alike.',
