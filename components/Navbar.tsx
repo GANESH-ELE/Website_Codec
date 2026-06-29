@@ -28,7 +28,7 @@ export default function Navbar() {
 
           {/* ── Brand ───────────────────────────────────────────── */}
           <Link href="/" className="flex items-center gap-3 flex-shrink-0 group">
-            <img src="/logo.png" 
+            <img src="/images/logo.png" 
             alt="Ganesh Electricals Logo" 
             className="h-16 w-auto" />
           </Link>
