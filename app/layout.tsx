@@ -8,7 +8,7 @@ import BottomNav from '@/components/BottomNav';
 export const metadata: Metadata = {
   title: 'Ganesh Electricals Hardware And Berger Paints – Brahmavara',
   description:
-    'Your trusted destination in Brahmavara for premium electrical, plumbing, and Berger Paints solutions. Holy Family Complex, NH 66, Brahmavara, Udupi – 576213.',
+    'Your trusted destination in Brahmavara for Electrical, plumbing, and Berger Paints solutions. Holy Family Complex, NH 66, Brahmavara, Udupi – 576213.',
   keywords: [
     'Ganesh Electricals',
     'Berger Paints Brahmavara',

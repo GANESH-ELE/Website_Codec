@@ -83,7 +83,7 @@ export default function HomePage() {
               What We Offer
             </h2>
             <p className="text-gray-500 text-sm lg:text-base max-w-xl mx-auto">
-              Premium products across categories — trusted by contractors and homeowners in Brahmavara.
+              Premium products across three core categories — trusted by contractors and homeowners in Brahmavara.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
@@ -180,9 +180,9 @@ export default function HomePage() {
               <p className="mt-5 text-gray-600 text-base lg:text-lg leading-relaxed">
                 Welcome to <strong>Ganesh Electricals Hardware And Berger Paints</strong>,
                 your trusted destination in Brahmavara for electrical, plumbing,
-                and painting solutions. We specialize in Berger Paints Computerised Tinting,
-                electrical fixtures,water pumps, and plumbing supplies, serving contractors 
-                and homeowners with reliable products and expert service for years.
+                and painting solutions. We specialize in Berger Paints, electrical fixtures,
+                water pumps, and plumbing supplies, serving contractors and homeowners with
+                reliable products and expert service for years.
               </p>
               <div className="mt-6 grid grid-cols-2 gap-4">
                 {[
@@ -247,7 +247,6 @@ export default function HomePage() {
                     <p className="text-gray-400">8:00 AM – 8:00 PM</p>
                     <p>Sunday</p>
                     <p className="text-gray-400">8:00 AM – 1:00 PM</p>
-                
                   </div>
                 </li>
               </ul>
@@ -301,7 +300,7 @@ export default function HomePage() {
                     <strong>Brahmavara</strong>, Udupi District, Karnataka – <strong>576213</strong>
                   </p>
                   <a
-                    href="https://www.google.com/maps/place/GANESH+ELECTRICALS+,+HARDWARE+AND+BERGER+PAINTS/@13.4348502,74.7424361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbcbd0a9242f88b:0xdfe046eac32f9822!8m2!3d13.434845!4d74.745011!16s%2Fg%2F11h40zq8ln?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D"
+                    href="https://www.google.com/maps/place/GANESH+ELECTRICALS+,+HARDWARE+AND+BERGER+PAINTS/@13.4348502,74.7424361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbcbd0a9242f88b:0xdfe046eac32f9822!8m2!3d13.434845!4d74.745011!16s%2Fg%2F11h40zq8ln?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-brand-600 font-semibold text-sm hover:underline mt-2 inline-block"
@@ -383,12 +382,12 @@ export default function HomePage() {
                 </div>
                 <p className="text-gray-300 text-sm lg:text-base leading-relaxed mb-6">
                   Located on National Highway 66, just beside the Brahmavara Bus Stand.
-                  Easily accessible by road.
+                  Easily accessible by road — look for the yellow signboard!
                 </p>
 
                 <div className="space-y-3">
                   <a
-                    href="https://www.google.com/maps/place/GANESH+ELECTRICALS+,+HARDWARE+AND+BERGER+PAINTS/@13.4348502,74.7424361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbcbd0a9242f88b:0xdfe046eac32f9822!8m2!3d13.434845!4d74.745011!16s%2Fg%2F11h40zq8ln?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyMi4wIKXMDSoASAFQAw%3D%3D"
+                    href="https://www.google.com/maps/place/GANESH+ELECTRICALS+,+HARDWARE+AND+BERGER+PAINTS/@13.4348502,74.7424361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbcbd0a9242f88b:0xdfe046eac32f9822!8m2!3d13.434845!4d74.745011!16s%2Fg%2F11h40zq8ln?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2 bg-brand-500 hover:bg-brand-400 text-white font-semibold px-6 py-3.5 rounded-xl transition-colors text-sm lg:text-base w-full"

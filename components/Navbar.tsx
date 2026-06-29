@@ -28,18 +28,9 @@ export default function Navbar() {
 
           {/* ── Brand ───────────────────────────────────────────── */}
           <Link href="/" className="flex items-center gap-3 flex-shrink-0 group">
-            <span className="bg-brand-500 rounded-xl p-2 flex-shrink-0 group-hover:bg-brand-400 transition-colors">
-              <Zap className="h-5 w-5 text-white" />
-            </span>
-            <div className="hidden sm:block leading-tight">
-              <p className="text-white font-bold text-base">
-                <span className="text-brand-400">Ganesh</span> Electricals
-              </p>
-              <p className="text-gray-400 text-xs tracking-wide">Hardware &amp; Berger Paints</p>
-            </div>
-            <span className="sm:hidden text-white font-bold text-base">
-              <span className="text-brand-400">GEB</span>
-            </span>
+            <img src="/logo.png" 
+            alt="Ganesh Electricals Logo" 
+            className="h-16 w-auto" />
           </Link>
 
           {/* ── Desktop nav ─────────────────────────────────────── */}

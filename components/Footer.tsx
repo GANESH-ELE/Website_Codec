@@ -21,8 +21,8 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed">
-              Your trusted destination in Brahmavara for premium electrical,
-              plumbing, and painting solutions.
+              Your trusted destination in Brahmavara for Electrical,
+              Plumbing, and Berger Painting Solutions.
             </p>
           </div>
 
@@ -81,7 +81,8 @@ export default function Footer() {
               </li>
               <li className="flex gap-2">
                 <Clock className="h-4 w-4 text-brand-400 flex-shrink-0 mt-0.5" />
-                <span>Mon – Sat: 9 AM – 7 PM</span>
+                <span>Mon – Sat: 8 AM – 8 PM</span>
+                <span>Sun: 8 AM – 1 PM</span>
               </li>
             </ul>
           </div>
@@ -98,7 +99,7 @@ export default function Footer() {
               </p>
               <p>National Highway NH&nbsp;66, Brahmavara</p>
               <a
-                href="https://maps.google.com/?q=Holy+Family+Complex+NH+66+Brahmavara+Udupi+576213"
+                href="https://www.google.com/maps/place/GANESH+ELECTRICALS+,+HARDWARE+AND+BERGER+PAINTS/@13.4348502,74.7424361,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbcbd0a9242f88b:0xdfe046eac32f9822!8m2!3d13.434845!4d74.745011!16s%2Fg%2F11h40zq8ln?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-2 bg-brand-600 hover:bg-brand-700 text-white text-xs font-medium px-3 py-1.5 rounded-md transition-colors"
