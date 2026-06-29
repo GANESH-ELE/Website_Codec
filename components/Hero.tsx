@@ -25,9 +25,10 @@ const slides: Slide[] = [
     title: 'Berger Paints',
     subtitle: 'Transform your home with India\'s premium paint brand. Trusted by homeowners and contractors alike.',
     cta: { label: 'Shop Paints', href: '/catalog?category=Paints' },
+    image: '/images/hero/berger_banner1.jpg',
     bg: 'from-orange-700 via-orange-600 to-yellow-500',
     emoji: '🎨',
-    image: '/images/hero/berger_banner1.jpg',
+    
   },
   {
     id: 2,
